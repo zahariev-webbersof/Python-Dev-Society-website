@@ -9,3 +9,8 @@ This is the source for the https://python-society.com website
 - main branch is deployed to https://python-society.com
 
 # Technologies used in the project
+
+- SCSS
+- CSS
+- JavaScript
+- HTML
