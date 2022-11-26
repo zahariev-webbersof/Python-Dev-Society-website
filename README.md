@@ -17,4 +17,4 @@ This is the source for the https://python-society.com website
 - HTML
 
 # Why Static website?
-- Static websites are safer, use fewer resources, and avoid vendor and platform lock-in.
+- Static websites are safer, use fewer resources, and avoid vendor and platform lock-in
